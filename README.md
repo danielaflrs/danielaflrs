@@ -19,7 +19,7 @@ Hello everyone, welcome to my GitHub profile. My name is Daniela, and I'm a **Co
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 ## 🌟 Projects:
-Here are a few of my projects that I’m proud of:
+Here are a few of my projects:
 - **Data Structures Visualization Tool**: Created a tool in Java to visualize various data structures like trees, graphs, and linked lists. This interactive tool helps users understand the internal workings of these structures, aiding both learning and debugging processes.
 - **Alcohol Detection Sensor**: Developed a system in C++ that used an air sensor to detect the presence of alcohol and triggered an alarm sound when alcohol was detected. This project showcased my skills in sensor integration and system programming.
 
