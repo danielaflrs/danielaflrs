@@ -1,5 +1,5 @@
 # Hi there 👋  
-Hello everyone, welcome to my GitHub profile. My name is Daniela, and I'm a **Computer Science student** at **[Facultad de Ciencias, UNAM](https://www.fciencias.unam.mx/)**. I’m passionate about software development, cybersecurity, and robotics. Currently, I’m enhancing my skills in **object-oriented programming** and exploring various **data structures and algorithms**.
+Hello everyone, welcome to my GitHub profile. My name is Daniela, and I'm a **Computer Science student** at **[Facultad de Ciencias, UNAM](https://www.fciencias.unam.mx/)**. I’m passionate about software development and robotics. Currently, I’m enhancing my skills in **object-oriented programming** and exploring various **data structures and algorithms**.
 
 ## 💻 Tech Stack:
 
